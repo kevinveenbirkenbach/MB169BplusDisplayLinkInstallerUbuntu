@@ -13,7 +13,7 @@ To clone this repository open a terminal and type:
 	git clone git@github.com:KevinFrantz/MB169BplusDisplayLinkInstallerUbuntu.git
 
 ### Download
-[Download]http://www.displaylink.com/downloads/ubuntu) the correct Drivers for your Acer MB169B+ from DisplayLink and copy them into your repository
+[Download](http://www.displaylink.com/downloads/ubuntu) the correct Drivers for your Acer MB169B+ from DisplayLink and copy them into your repository
 	
 ### Run 
 Run this script:
